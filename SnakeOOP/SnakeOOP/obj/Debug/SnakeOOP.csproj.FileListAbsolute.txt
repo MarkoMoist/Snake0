@@ -1,0 +1,2 @@
+C:\Users\marko\source\repos\SnakeOOP\SnakeOOP\obj\Debug\SnakeOOP.csproj.AssemblyReference.cache
+C:\Users\marko\source\repos\SnakeOOP\SnakeOOP\obj\Debug\SnakeOOP.csproj.CoreCompileInputs.cache
